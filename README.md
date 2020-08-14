@@ -1,6 +1,7 @@
 # Weather-Station
 
-Aplikasi ini adalah aplikasi pemantauan cuaca di WSN berbasis arduino. Untuk sementara digunakan 2 arduino sebagai node sensor dan 1 arduino sebagai base station
+Aplikasi ini adalah aplikasi pemantauan cuaca di WSN berbasis arduino. Untuk sementara digunakan 2 arduino sebagai node sensor dan 1 arduino sebagai base station.
+Dibutuhkan 3 buah sensor pada node sensor yaitu DHT11, BMP280, dan Rain Sensor
 Untuk komunikasi antar node digunakan alat yang bernama XBee.
 
 Langkah-langkah menjalankan program:
